@@ -1,6 +1,6 @@
 This repo saves code for the generating reports with Python series for our YouTube channel. Please check out the videos for detailed explanations. ().
 
-Welcome to our new Generating Reports with Python tutorial series. You'll generate an example report as different format.
+Welcome to our new Generating Reports with Python tutorial series. You'll generate an example report in different formats.
 
 Reporting is one of the essential tasks for anyone who works with data information. It is critical but also tedious. To free our hands and minds, we can make a Python program to automate the report generation process.
 
