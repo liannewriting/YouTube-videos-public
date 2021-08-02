@@ -1,4 +1,4 @@
-This repo saves code for the generating reports with Python series for our YouTube channel. Please check out the videos for detailed explanations. ().
+This repo saves code for the generating reports with Python series for our YouTube channel. Please check out the videos for detailed explanations. (https://youtube.com/playlist?list=PL2L4c5jChmctDQgU2QdSle4uEIGbC8k9Q).
 
 Welcome to our new Generating Reports with Python tutorial series. You'll generate an example report in different formats.
 
