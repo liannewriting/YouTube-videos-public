@@ -1,4 +1,4 @@
-This repo saves code for the Send Emails with Python tutorial for our YouTube channel. Please check out the videos for detailed explanations. ().
+This repo saves code for the Send Emails with Python tutorial for our YouTube channel. Please check out the videos for detailed explanations. (https://youtu.be/NvtjLXSY-hE).
 
 Welcome to your How to Send Emails with Python tutorial. You'll use Python to send Emails of Plain text, HTML with attachments through Gmail.
 
