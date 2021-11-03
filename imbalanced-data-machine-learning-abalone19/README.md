@@ -1,4 +1,4 @@
-This repo saves code for the Handling Imbalanced Data series for our YouTube channel. Please check out the videos for detailed explanations. ().
+This repo saves code for the Handling Imbalanced Data series for our YouTube channel. Please check out the videos for detailed explanations. (https://youtube.com/playlist?list=PL2L4c5jChmctqiXvOaJA91o0OJhYq1rR9).
 
 Welcome to our Handling Imbalanced Data in machine learning classification series. You'll work on a highly imbalanced example dataset in Python.
 
