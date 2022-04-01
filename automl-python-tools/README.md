@@ -1,4 +1,4 @@
-This repo saves code for the How to use AutoML Python tools to automate your machine learning process video for our YouTube channel. Please check out the video for detailed explanations. ().
+This repo saves code for the How to use AutoML Python tools to automate your machine learning process video for our YouTube channel. Please check out the video for detailed explanations. (https://youtu.be/XKp40ul2JpA).
 
 Welcome to How to use AutoML Python tools to automate your machine learning process. You'll use a time series forecasting problem as an example.
 
