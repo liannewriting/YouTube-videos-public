@@ -4,7 +4,7 @@ Welcome to How to build ARIMA models in Python for time series forecasting. You'
 
 By following this tutorial, you’ll learn:
 
-What is ARIMA
+✅What is ARIMA
 ✅How to build an ARIMA model in Python, step-by-step
 ✅How to automatically fit an ARIMA model in Python
 ✅How to make predictions and evaluate them
