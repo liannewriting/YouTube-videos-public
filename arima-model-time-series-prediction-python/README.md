@@ -1,4 +1,4 @@
-This repo saves code for the How to build ARIMA models in Python for time series forecasting video for our YouTube channel. Please check out the video for detailed explanations. ().
+This repo saves code for the How to build ARIMA models in Python for time series forecasting video for our YouTube channel. Please check out the video for detailed explanations. (https://youtu.be/-aCF0_wfVwY).
 
 Welcome to How to build ARIMA models in Python for time series forecasting. You'll build ARIMA models with our example dataset, step-by-step.
 
