@@ -15,7 +15,7 @@ By following this tutorial, you’ll learn:
 
 If you want to use Python to create XGBoost models to make predictions, this practical tutorial will get you started.
 
-GitHub Repo with code and dataset: 
+GitHub Repo with code: https://github.com/liannewriting/YouTube-videos-public/blob/main/xgboost-python-tutorial-example/xgboost_python.ipynb
 
 Technologies that will be used: 
 ☑️ JupyterLab (Notebook)
