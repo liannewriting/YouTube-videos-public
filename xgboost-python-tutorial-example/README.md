@@ -41,6 +41,6 @@ https://www.justintodata.com/courses/python-for-data-analysis-projects-online-co
 
 ► XGBClassifier documentation with hyperparameters definition: https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBClassifier
 
-There's also an article version of the same content. If you prefer reading, please check it out. How to build XGBoost models in Python: https://www.justintodata.com/xgboost-model-python/
+There's also an article version of the same content. If you prefer reading, please check it out. How to build XGBoost models in Python: https://www.justintodata.com/xgboost-model-classifier-python-example/
 
 Get access to more data science materials, check out our website Just into Data: https://justintodata.com/
