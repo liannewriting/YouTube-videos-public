@@ -1,4 +1,4 @@
-This repo saves code for the How to train XGBoost models in Python video for our YouTube channel. Please check out the video for detailed explanations. ().
+This repo saves code for the How to train XGBoost models in Python video for our YouTube channel. Please check out the video for detailed explanations. (https://youtu.be/aLOQD66Sj0g).
 
 Welcome to How to train XGBoost models in Python tutorial. You'll build an XGBoost Classifier model with an example dataset, step-by-step.
 
